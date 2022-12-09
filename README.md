@@ -1,7 +1,5 @@
 # Project Graphite Backend
 
-[toc]
-
 ## Running Local Dev Server
 
 - Clone git repo using `git clone` command.
